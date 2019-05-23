@@ -1,0 +1,15 @@
+body{
+    background-color:#54D8FF;
+}
+h1{
+    text-align:center;
+    color:white;
+      border:solid blue;
+    border-radius:300px;
+}
+h3{
+    color:white;
+}
+p{
+ color:white;   
+}
