@@ -9,5 +9,7 @@ $(".solve").click(function(){
     $(".cookie").show();
     $("p").text("you were right");
    }
-   
+   else{
+       $("p").text("WRONG!!!!");
+       }
     });
